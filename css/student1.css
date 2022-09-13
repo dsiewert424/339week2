@@ -24,11 +24,17 @@ nav li {
     width: 20%;
     display: inline-block;
 } 
-li {}
 main img {
     box-sizing: border-box;
     width: 24%;
     padding: 15px;
     margin: 0;
     border: 5px dashed green;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: lightseagreen;
+    padding: 20px;
+    border: 5px solid black;
 }
